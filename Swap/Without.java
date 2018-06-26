@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Without{
-    /*public static void main(String[] args){
+    public static void main(String[] args){
         int num1,num2;
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the first number:");
@@ -14,8 +14,9 @@ class Without{
         num1=num1-num2;
         System.out.println("after swap:"+num1+" "+num2);
         sc.close();
-    }*/
-    public static void main(String[] args){
+    }
+}
+   /* public static void main(String[] args){
         String str1,str2,temp;
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the first string:");
@@ -23,12 +24,11 @@ class Without{
         System.out.println("enter the second number:");
         str2=sc.nextLine();
         System.out.println("before swap:"+str1+" "+str2);
-        num1=num1+num2;
-        num2=num1-num2;
-        num1=num1-num2;
-        System.out.println("after swap:"+num1+" "+num2);
+        str1=str1+str2;
+        str2=str1-str2;
+        str2=str1-str2;
+        System.out.println("after swap:"+str1+" "+str2);
         sc.close();
     }
        
-    }
-}
+}*/
