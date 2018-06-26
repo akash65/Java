@@ -37,5 +37,7 @@ class Binary{
     if(first>last){
         System.out.println(search+"loaction not found");
     }
+    sc.close();
+    
     }
 }
